@@ -1,0 +1,9 @@
+﻿  game_of_life.cpp
+C:\Users\Badr Eddine\Desktop\Homework\Task\game_of_life.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Badr Eddine\Desktop\Homework\Task\game_of_life.cpp(13,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Badr Eddine\Desktop\Homework\Task\game_of_life.cpp(22,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Badr Eddine\Desktop\Homework\Task\game_of_life.cpp(24,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Badr Eddine\Desktop\Homework\Task\game_of_life.cpp(118,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Badr Eddine\Desktop\Homework\Task\game_of_life.cpp(120,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Badr Eddine\Desktop\Homework\Task\game_of_life.cpp(139,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Task.vcxproj -> C:\Users\Badr Eddine\Desktop\Homework\Debug\Task.exe
